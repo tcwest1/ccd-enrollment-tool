@@ -1,0 +1,458 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CCD District Enrollment Explorer</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <style>
+    :root{--blue:#0F4E67;--ink:#17232b;--muted:#64717a;--line:#dbe5ea;--bg:#f5f8fa;--card:#fff;--gold:#c79a2b;--green:#3f8f72;--red:#b74b4b;}
+    *{box-sizing:border-box} body{margin:0;font-family:Inter,Arial,sans-serif;background:var(--bg);color:var(--ink)}
+    header{background:linear-gradient(135deg,var(--blue),#123746);color:white;padding:28px 24px 22px;border-bottom:5px solid #d6b25e}
+    header h1{margin:0 0 8px;font-size:clamp(26px,3vw,42px);letter-spacing:-.04em} header p{margin:0;max-width:1000px;color:#e8f2f5;font-size:15px;line-height:1.45}
+    main{max-width:1280px;margin:0 auto;padding:22px}.panel{background:var(--card);border:1px solid var(--line);border-radius:18px;box-shadow:0 10px 28px rgba(16,45,58,.08);padding:18px;margin-bottom:18px}
+    .grid{display:grid;grid-template-columns:1.15fr .85fr;gap:18px}.controls{display:grid;grid-template-columns:220px 1fr 180px;gap:12px;align-items:end}.field label{display:block;font-size:12px;font-weight:800;text-transform:uppercase;color:var(--muted);letter-spacing:.08em;margin-bottom:6px}.field input,.field select{width:100%;border:1px solid var(--line);border-radius:12px;padding:12px 13px;font-size:15px;background:#fff}button{border:0;border-radius:12px;background:var(--blue);color:#fff;font-weight:800;padding:13px 16px;cursor:pointer}button.secondary{background:#eef5f7;color:var(--blue);border:1px solid #cfe1e7}.suggestions{position:relative}.suggestions-list{position:absolute;top:72px;left:0;right:0;z-index:10;background:white;border:1px solid var(--line);border-radius:12px;box-shadow:0 14px 28px rgba(0,0,0,.12);max-height:320px;overflow:auto;display:none}.suggestions-list div{padding:10px 12px;border-bottom:1px solid #eef2f4;cursor:pointer}.suggestions-list div:hover{background:#f3f8fa}.district-name{font-weight:800}.district-meta{font-size:12px;color:var(--muted);margin-top:2px}
+    .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.kpi{background:#f9fbfc;border:1px solid var(--line);border-radius:16px;padding:15px}.kpi .label{font-size:12px;color:var(--muted);font-weight:800;text-transform:uppercase;letter-spacing:.06em}.kpi .value{font-size:26px;font-weight:900;margin-top:5px;color:var(--blue)}.kpi .sub{font-size:12px;color:var(--muted);margin-top:2px}
+    .chart-wrap{height:410px}.compare-wrap{height:310px}.status{font-size:13px;color:var(--muted);margin-top:10px;min-height:20px}.tabs{display:flex;gap:8px;margin-bottom:12px;flex-wrap:wrap}.tab{padding:9px 12px;border-radius:999px;border:1px solid var(--line);font-weight:800;font-size:13px;cursor:pointer;background:white;color:var(--muted)}.tab.active{background:var(--blue);color:white;border-color:var(--blue)}
+    table{width:100%;border-collapse:collapse;font-size:13px}th,td{text-align:left;padding:10px;border-bottom:1px solid #e8eef1}th{color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.07em}td.num{text-align:right;font-variant-numeric:tabular-nums}.note{font-size:12px;color:var(--muted);line-height:1.4}.footer{font-size:12px;color:var(--muted);text-align:right;padding:8px 2px 24px}.pill{display:inline-flex;padding:4px 8px;border-radius:999px;background:#edf5f8;color:var(--blue);font-weight:800;font-size:12px}.hidden{display:none!important}
+    @media(max-width:920px){.grid,.controls,.kpis{grid-template-columns:1fr}.chart-wrap{height:360px}.suggestions-list{top:70px}}
+  </style>
+</head>
+<body>
+<header>
+  <h1>CCD District Enrollment Explorer</h1>
+  <p>Select a state, search a public school district from the local CCD LEA directory, and generate an annual grades K-12 enrollment bar graph using Urban Institute CCD enrollment API calls, plus a dotted five-year enrollment forecast based on the rolling three-year average annual percent change.</p>
+</header>
+<main>
+  <section class="panel">
+    <div class="controls">
+      <div class="field"><label for="stateFilter">State</label><select id="stateFilter"><option value="">Select a state</option></select></div>
+      <div class="field suggestions">
+        <label for="districtSearch">Search district</label>
+        <input id="districtSearch" placeholder="Select a state first" autocomplete="off" disabled />
+        <div id="suggestions" class="suggestions-list"></div>
+      </div>
+      <button id="loadBtn" disabled>Load district</button>
+    </div>
+    <div class="status" id="status">Select a state to filter the local CCD LEA directory. No external API calls are made.</div>
+  </section>
+
+  <section id="results" class="hidden">
+    <section class="panel">
+      <div style="display:flex;justify-content:space-between;gap:14px;align-items:start;flex-wrap:wrap;margin-bottom:14px">
+        <div><h2 id="title" style="margin:0;font-size:25px;letter-spacing:-.03em"></h2><div id="subtitle" class="note"></div></div>
+        <div class="pill" id="sourcePill">CCD enrollment</div>
+      </div>
+      <div class="kpis">
+        <div class="kpi"><div class="label">Latest enrollment</div><div class="value" id="kpiLatest">—</div><div class="sub" id="kpiLatestYear">—</div></div>
+        <div class="kpi"><div class="label">2015–2024 change</div><div class="value" id="kpiChange">—</div><div class="sub" id="kpiChangePct">—</div></div>
+        <div class="kpi"><div class="label">CAGR</div><div class="value" id="kpiCagr">—</div><div class="sub">Compound annual growth rate</div></div>
+        <div class="kpi"><div class="label">Forecast</div><div class="value" id="kpiForecast">—</div><div class="sub" id="kpiForecastYear">Rolling 3-year APC projection</div></div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="tabs"><div class="tab active" data-view="history">2015–2024 bars</div><div class="tab" data-view="forecast">Bars + dotted forecast</div></div>
+      <div class="chart-wrap"><canvas id="enrollmentChart"></canvas></div>
+    </section>
+
+    <section class="grid">
+      <div class="panel"><h3 style="margin-top:0">Enrollment table</h3><div style="overflow:auto"><table id="dataTable"></table></div></div>
+      <div class="panel"><h3 style="margin-top:0">Method</h3><div class="note">
+        <p><b>Local files:</b> The app expects state-level LEA directory files in the main repository folder, such as <code>ccd_lea_directory_nm.json</code>, for state and district lookup.</p><p><b>Enrollment:</b> After a district is selected, the app calls the Urban Institute Education Data Portal CCD district enrollment API for each school year and sums grade-level membership for kindergarten through grade 12. It tries both padded and unpadded LEAID formats when needed.</p>
+        <p><b>Aggregation:</b> The app sums the API’s grade-level records for K–12 only. Pre-K, grade 13, ungraded, and adult education are excluded.</p>
+        <p><b>Forecast:</b> The dotted projection line begins with the 2018–2019 school year. For each projected point, the tool applies a rolling three-year average annual percent change to the prior year's enrollment, then compounds that same rolling method forward five years beyond the latest actual year. It is intended as a quick planning signal, not an official projection.</p>
+        <p><b>Number of Schools:</b> The table uses the operational school count from the local LEA directory file when available.</p>
+        <button id="downloadCsv" class="secondary">Download selected district CSV</button>
+      </div></div>
+    </section>
+  </section>
+  <div class="footer">Powered by local CCD LEA directory + Urban Institute CCD API</div>
+</main>
+
+<script>
+const YEARS = Array.from({length:10},(_,i)=>2015+i);
+const PROJECTION_START_YEAR = 2018;
+const DIRECTORY_PREFIX = 'ccd_lea_directory';
+const URBAN_CCD_API = 'https://educationdata.urban.org/api/v1/school-districts/ccd';
+const MEMBERSHIP_PREFIX = 'ccd_sch_membership';
+const MAX_MEMBERSHIP_PARTS = 8;
+const FORECAST_YEARS_AHEAD = 5;
+const STATES = [
+  ['AL','Alabama'],['AK','Alaska'],['AZ','Arizona'],['AR','Arkansas'],['CA','California'],
+  ['CO','Colorado'],['CT','Connecticut'],['DE','Delaware'],['DC','District of Columbia'],
+  ['FL','Florida'],['GA','Georgia'],['HI','Hawaii'],['ID','Idaho'],['IL','Illinois'],
+  ['IN','Indiana'],['IA','Iowa'],['KS','Kansas'],['KY','Kentucky'],['LA','Louisiana'],
+  ['ME','Maine'],['MD','Maryland'],['MA','Massachusetts'],['MI','Michigan'],['MN','Minnesota'],
+  ['MS','Mississippi'],['MO','Missouri'],['MT','Montana'],['NE','Nebraska'],['NV','Nevada'],
+  ['NH','New Hampshire'],['NJ','New Jersey'],['NM','New Mexico'],['NY','New York'],
+  ['NC','North Carolina'],['ND','North Dakota'],['OH','Ohio'],['OK','Oklahoma'],
+  ['OR','Oregon'],['PA','Pennsylvania'],['RI','Rhode Island'],['SC','South Carolina'],
+  ['SD','South Dakota'],['TN','Tennessee'],['TX','Texas'],['UT','Utah'],['VT','Vermont'],
+  ['VA','Virginia'],['WA','Washington'],['WV','West Virginia'],['WI','Wisconsin'],['WY','Wyoming']
+];
+
+let allDistricts = [], selectedDistrict = null, selectedSeries = [], enrollmentChart, currentView='history';
+const enrollmentCache = new Map();
+
+const $ = id => document.getElementById(id);
+const fmt = n => Number.isFinite(n) ? Math.round(n).toLocaleString() : '—';
+const pct = n => Number.isFinite(n) ? (n*100).toFixed(1)+'%' : '—';
+const status = msg => $('status').textContent = msg;
+
+function safeText(v){ return (v === null || v === undefined) ? '' : String(v); }
+function safeCompare(a,b){ return safeText(a).localeCompare(safeText(b)); }
+function val(row, keys){
+  for(const k of keys){
+    if(row && row[k] !== undefined && row[k] !== null && row[k] !== '' && row[k] !== -1 && row[k] !== -2 && row[k] !== -9) return row[k];
+  }
+  return null;
+}
+function extractRows(json){ return Array.isArray(json) ? json : (json.results || json.data || json.records || json.districts || json.schools || []); }
+function normLeaidValue(v){
+  if(v === null || v === undefined || v === '') return '';
+  const s = String(v).trim();
+  if(!s) return '';
+  return /^\d+$/.test(s) ? s.padStart(7,'0') : s;
+}
+function normLeaid(row){ return normLeaidValue(val(row,['LEAID','leaid','NCES_LEAID','nces_leaid','ncesid','district_id','agency_id'])); }
+function normName(row){ return val(row,['LEA_NAME','lea_name','LEA_NAME_2425','district_name','agency_name','name','leanm','NAME']) || ''; }
+function normState(row){ return String(val(row,['ST','st','STATE','state','state_abbr','STABBR','stabbr']) || '').trim().toUpperCase(); }
+function normStateName(row){ return val(row,['STATENAME','state_name','STATE_NAME','statename']) || normState(row); }
+function normEnrollment(row){
+  const x = val(row,['MEMBER','member','MEMBERSHIP','membership','ENROLLMENT','enrollment','student_count','STUDENT_COUNT','students','COUNT','count','value','VALUE','TOTAL','total']);
+  if(x === null) return null;
+  const n = +String(x).replace(/,/g,'');
+  return Number.isFinite(n) && n >= 0 ? n : null;
+}
+function schoolYearCode(year){ return String(year).slice(-2) + String(year + 1).slice(-2); }
+function schoolYearLabel(year){ return `${year}–${String(year + 1).slice(-2)}`; }
+function singleFileCandidates(year, st){
+  const code = schoolYearCode(year);
+  const lower = st.toLowerCase();
+  const upper = st.toUpperCase();
+  return [
+    `json/${code}/${MEMBERSHIP_PREFIX}_${code}_${lower}.json`,
+    `json/${code}/${MEMBERSHIP_PREFIX}_${code}_${upper}.json`
+  ];
+}
+
+function partFileCandidates(year, st, part){
+  const code = schoolYearCode(year);
+  const lower = st.toLowerCase();
+  const upper = st.toUpperCase();
+  return [
+    `json/${code}/${MEMBERSHIP_PREFIX}_${code}_${lower}_part${part}.json`,
+    `json/${code}/${MEMBERSHIP_PREFIX}_${code}_${upper}_part${part}.json`
+  ];
+}
+async function fetchJson(url){
+  console.log('Fetching:', url);
+  const r = await fetch(url);
+  if(!r.ok) throw new Error(`${r.status} ${r.statusText}`);
+  return await r.json();
+}
+async function fetchFirstAvailable(urls){
+  let lastErr = null;
+  for(const url of urls){
+    try{ return {json: await fetchJson(url), url}; }
+    catch(e){ lastErr = e; }
+  }
+  throw lastErr || new Error('No matching local JSON file found.');
+}
+
+function initStateSelect(){
+  $('stateFilter').innerHTML = '<option value="">Select a state</option>' + STATES.map(([abbr,name]) => `<option value="${abbr}">${name}</option>`).join('');
+  $('districtSearch').disabled = true;
+  $('loadBtn').disabled = true;
+  status('Select a state to load that state’s local LEA directory file.');
+}
+
+function directoryFileForState(stateAbbr){
+  return `${DIRECTORY_PREFIX}_${stateAbbr.toLowerCase()}.json`;
+}
+
+async function loadLeaDirectoryForState(stateAbbr){
+  if(!stateAbbr){
+    resetForState();
+    status('Select a state to load that state’s local LEA directory file.');
+    return;
+  }
+
+  resetForState();
+  const stateName = (STATES.find(s=>s[0]===stateAbbr) || [stateAbbr,stateAbbr])[1];
+  const path = directoryFileForState(stateAbbr);
+  status(`Loading ${stateName} LEA directory from ${path}…`);
+
+  try{
+    const json = await fetchJson(path);
+    const rows = extractRows(json);
+    allDistricts = rows.map(r => ({
+      leaid: normLeaid(r),
+      name: normName(r),
+      state: normState(r),
+      stateName: normStateName(r),
+      raw: r,
+      schools: extractSchoolCount(r)
+    })).filter(d => d.leaid && d.name && d.state === stateAbbr)
+      .sort((a,b)=>safeCompare(a.name,b.name));
+
+    if(!allDistricts.length){
+      status(`No LEAs were found in ${path}. Confirm the file contains ${stateAbbr} records.`);
+      return;
+    }
+
+    $('districtSearch').disabled = false;
+    $('districtSearch').placeholder = `Search districts in ${stateName}`;
+    $('loadBtn').disabled = false;
+    status(`Loaded ${allDistricts.length.toLocaleString()} LEAs from ${path}. Start typing a district name.`);
+  }catch(e){
+    console.error(e);
+    status(`Could not load ${path}. Make sure the state directory file exists in the main repository folder and uses the lowercase state abbreviation.`);
+  }
+}
+
+function resetForState(){
+  selectedDistrict = null;
+  selectedSeries = [];
+  $('districtSearch').value = '';
+  $('districtSearch').disabled = true;
+  $('districtSearch').placeholder = 'Select a state first';
+  $('loadBtn').disabled = true;
+  $('suggestions').style.display = 'none';
+  $('results').classList.add('hidden');
+  if(enrollmentChart){ enrollmentChart.destroy(); enrollmentChart = null; }
+}
+
+function loadDistrictsForState(stateAbbr){
+  loadLeaDirectoryForState(stateAbbr);
+}
+
+function showSuggestions(){
+  const q=$('districtSearch').value.trim().toLowerCase(), st=$('stateFilter').value; const box=$('suggestions');
+  if(q.length<2){box.style.display='none'; return;}
+  const hits=allDistricts
+    .filter(d => d.state === st && d.name.toLowerCase().includes(q))
+    .sort((a,b)=>safeCompare(a.name,b.name))
+    .slice(0,25);
+  box.innerHTML=hits.map((d,i)=>`<div data-i="${i}"><div class="district-name">${d.name}</div><div class="district-meta">${d.state} · LEAID ${d.leaid}${Number.isFinite(d.schools)?` · ${fmt(d.schools)} schools`:''}</div></div>`).join('');
+  box.querySelectorAll('div[data-i]').forEach(el=>el.onclick=()=>{selectedDistrict=hits[+el.dataset.i]; $('districtSearch').value=selectedDistrict.name; box.style.display='none';});
+  box.style.display=hits.length?'block':'none';
+}
+
+function extractSchoolCount(row){
+  const v = val(row || {}, ['OPERATIONAL_SCHOOLS','operational_schools','number_of_schools','num_schools','school_count','schools','n_schools','total_schools']);
+  const n = +v;
+  return Number.isFinite(n) && n > 0 ? n : null;
+}
+const K12_GRADES = ['grade-kg','grade-1','grade-2','grade-3','grade-4','grade-5','grade-6','grade-7','grade-8','grade-9','grade-10','grade-11','grade-12'];
+
+function schoolId(row){
+  return String(val(row,['NCESSCH','ncessch','SCHID','schid','SCHOOL_ID','school_id','schoolid','SCH_NAME','SCHOOL_NAME','school_name','NAME']) || '').trim();
+}
+
+function leaidCandidates(leaid){
+  const padded = String(leaid).padStart(7,'0');
+  const unpadded = padded.replace(/^0+/, '');
+  return [...new Set([padded, unpadded])].filter(Boolean);
+}
+
+async function fetchUrbanGradeEnrollment(year, grade, leaid){
+  const candidates = leaidCandidates(leaid);
+
+  for(const candidate of candidates){
+    const url = `${URBAN_CCD_API}/enrollment/${year}/${grade}/?leaid=${encodeURIComponent(candidate)}`;
+    try{
+      const rows = extractRows(await fetchJson(url));
+      const nums = rows.map(normEnrollment).filter(Number.isFinite);
+      if(nums.length) return nums.reduce((sum, n) => sum + n, 0);
+    }catch(e){
+      console.warn(`Urban CCD enrollment failed for ${year} ${grade} LEAID ${candidate}`, e);
+    }
+  }
+
+  return null;
+}
+
+async function fetchUrbanEnrollmentYear(leaid, year){
+  const key = `${leaid}|${year}`;
+  if(enrollmentCache.has(key)) return enrollmentCache.get(key);
+
+  let total = 0;
+  let ok = false;
+
+  // Use sequential requests rather than Promise.all so API throttling or a failed
+  // grade endpoint does not prevent other grade endpoints from contributing.
+  for(const grade of K12_GRADES){
+    const n = await fetchUrbanGradeEnrollment(year, grade, leaid);
+    if(Number.isFinite(n)){
+      total += n;
+      ok = true;
+    }
+  }
+
+  const out = ok ? total : null;
+  enrollmentCache.set(key, out);
+  return out;
+}
+
+async function getSeries(d){
+  status(`Loading Urban CCD enrollment API data for ${d.name}…`);
+  const values = [];
+
+  for(const y of YEARS){
+    const enrollment = await fetchUrbanEnrollmentYear(d.leaid, y);
+    values.push({
+      year: y,
+      label: schoolYearLabel(y),
+      enrollment: Number.isFinite(enrollment) ? enrollment : null,
+      schools: Number.isFinite(d.schools) ? d.schools : null,
+      source: 'Urban Institute CCD district enrollment API',
+      missingFile: false
+    });
+  }
+
+  return values;
+}
+
+function annualPercentChanges(points){
+  const pts = points.filter(d => Number.isFinite(d.enrollment) && d.enrollment > 0).sort((a,b) => a.year - b.year);
+  const changes = [];
+  for(let i=1;i<pts.length;i++){
+    const prev=pts[i-1], curr=pts[i];
+    if(curr.year === prev.year + 1 && prev.enrollment > 0){
+      changes.push({year:curr.year, change:(curr.enrollment-prev.enrollment)/prev.enrollment});
+    }
+  }
+  return changes;
+}
+function rollingThreeYearPercentChange(series, maxYear=null){
+  let pts = series.filter(d => Number.isFinite(d.enrollment) && d.enrollment > 0).sort((a,b)=>a.year-b.year);
+  if(Number.isFinite(maxYear)) pts = pts.filter(d => d.year <= maxYear);
+  const recent = annualPercentChanges(pts).slice(-3);
+  if(recent.length < 1) return null;
+  return recent.reduce((sum,d)=>sum+d.change,0) / recent.length;
+}
+function forecast(series){
+  const pts = series.filter(d => Number.isFinite(d.enrollment) && d.enrollment > 0).sort((a,b)=>a.year-b.year);
+  if(!pts.length) return [];
+  const lastActual = pts[pts.length-1];
+  const avgChange = rollingThreeYearPercentChange(series, lastActual.year);
+  if(!Number.isFinite(avgChange)) return [];
+  let currentEnrollment = lastActual.enrollment;
+  return Array.from({length:FORECAST_YEARS_AHEAD}, (_,i) => {
+    const year = lastActual.year + i + 1;
+    currentEnrollment = Math.max(0, Math.round(currentEnrollment * (1 + avgChange)));
+    return {year, label:schoolYearLabel(year), enrollment:currentEnrollment, schools:null, forecast:true, annualPercentChange:avgChange};
+  });
+}
+function fittedTrend(series){
+  const actualByYear = new Map(series.filter(d=>Number.isFinite(d.enrollment)&&d.enrollment>0).map(d=>[d.year,d.enrollment]));
+  if(!actualByYear.has(PROJECTION_START_YEAR)) return [];
+  const trend = [{year:PROJECTION_START_YEAR, label:schoolYearLabel(PROJECTION_START_YEAR), enrollment:actualByYear.get(PROJECTION_START_YEAR), trend:true, forecast:false}];
+  for(const year of YEARS.filter(y=>y>PROJECTION_START_YEAR)){
+    const priorActual = actualByYear.get(year-1);
+    const avgChange = rollingThreeYearPercentChange(series, year-1);
+    if(Number.isFinite(priorActual) && Number.isFinite(avgChange)){
+      trend.push({year, label:schoolYearLabel(year), enrollment:Math.max(0, Math.round(priorActual*(1+avgChange))), trend:true, forecast:false, annualPercentChange:avgChange});
+    }
+  }
+  return [...trend, ...forecast(series).map(d=>({...d, trend:true}))];
+}
+function cagr(series){
+  const pts=series.filter(d=>d.enrollment>0);
+  if(pts.length<2) return NaN;
+  const first=pts[0], last=pts[pts.length-1];
+  return Math.pow(last.enrollment/first.enrollment,1/(last.year-first.year))-1;
+}
+function updateKpis(series){
+  const pts=series.filter(d=>Number.isFinite(d.enrollment));
+  const first=pts[0], last=pts[pts.length-1], fc=forecast(series).at(-1);
+  $('kpiLatest').textContent=fmt(last?.enrollment);
+  $('kpiLatestYear').textContent=last?schoolYearLabel(last.year):'—';
+  const ch=(last?.enrollment??NaN)-(first?.enrollment??NaN);
+  $('kpiChange').textContent=(ch>0?'+':'')+fmt(ch);
+  $('kpiChangePct').textContent=first?`${pct(ch/first.enrollment)} since ${schoolYearLabel(first.year)}`:'—';
+  $('kpiCagr').textContent=pct(cagr(series));
+  $('kpiForecast').textContent=fmt(fc?.enrollment);
+  $('kpiForecastYear').textContent=fc?`Projected ${schoolYearLabel(fc.year)}`:'Rolling 3-year APC projection';
+}
+function drawEnrollment(series){
+  const fc = forecast(series);
+  const trend = fittedTrend(series);
+  const rows = currentView === 'forecast' ? [...series, ...fc] : YEARS.map(year => series.find(d => d.year === year) || {year, label:schoolYearLabel(year), enrollment:null});
+  const trendRows = currentView === 'forecast' ? trend : [];
+  const labels = rows.map(d => d.label || schoolYearLabel(d.year));
+  const actualData = rows.map(d => (d.forecast || !Number.isFinite(d.enrollment)) ? null : d.enrollment);
+  const trendDataByYear = new Map(trendRows.map(d => [d.year, d.enrollment]));
+  const trendData = rows.map(d => trendDataByYear.get(d.year) ?? null);
+
+  if(enrollmentChart) enrollmentChart.destroy();
+  enrollmentChart = new Chart($('enrollmentChart'), {
+    data: {
+      labels,
+      datasets: [
+        {type:'bar', label:'Actual K–12 enrollment', data:actualData, borderRadius:8, barPercentage:0.76, categoryPercentage:0.86},
+        {type:'line', label:'Dotted rolling 3-year APC projection', data:trendData, borderDash:[6,6], borderWidth:3, pointRadius:3, tension:0.2, spanGaps:true}
+      ]
+    },
+    options: {
+      responsive:true,
+      maintainAspectRatio:false,
+      plugins:{legend:{display:true}, tooltip:{callbacks:{label:ctx=>`${ctx.dataset.label}: ${fmt(ctx.raw)}`}}},
+      scales:{
+        x:{grid:{display:false}, ticks:{autoSkip:false, maxRotation:45, minRotation:0}, title:{display:true,text:'School year'}},
+        y:{beginAtZero:false, ticks:{callback:value=>fmt(value)}, title:{display:true,text:'Students'}}
+      }
+    }
+  });
+}
+function drawTable(series){
+  const rows = series.map((d,i)=>{
+    const prev=i?series[i-1].enrollment:null;
+    const yoy=Number.isFinite(prev)&&prev>0&&Number.isFinite(d.enrollment)?(d.enrollment-prev)/prev:null;
+    return `<tr><td>${d.label || schoolYearLabel(d.year)}</td><td class="num">${fmt(d.enrollment)}</td><td class="num">${yoy==null?'—':pct(yoy)}</td><td class="num">${Number.isFinite(d.schools)?fmt(d.schools):'—'}</td></tr>`;
+  }).join('');
+  $('dataTable').innerHTML='<thead><tr><th>Year</th><th style="text-align:right">Enrollment</th><th style="text-align:right">YOY Change</th><th style="text-align:right">Number of Schools</th></tr></thead><tbody>'+rows+'</tbody>';
+}
+async function loadSelected(){
+  if(!selectedDistrict){
+    const q=$('districtSearch').value.trim().toLowerCase();
+    selectedDistrict=allDistricts.find(d=>d.state===$('stateFilter').value && d.name.toLowerCase()===q)||allDistricts.find(d=>d.state===$('stateFilter').value && d.name.toLowerCase().includes(q));
+  }
+  if(!selectedDistrict){ status('Select a district from the search results first.'); return; }
+
+  $('results').classList.remove('hidden');
+  $('title').textContent=selectedDistrict.name;
+  $('subtitle').textContent=`${selectedDistrict.state} · LEAID ${selectedDistrict.leaid}`;
+  selectedSeries = await getSeries(selectedDistrict);
+  const missing = selectedSeries.filter(d => !Number.isFinite(d.enrollment)).map(d => d.label || schoolYearLabel(d.year));
+  updateKpis(selectedSeries);
+  drawEnrollment(selectedSeries);
+  drawTable(selectedSeries);
+  status(missing.length ? `Ready. No Urban CCD enrollment value was returned for: ${missing.join(', ')}.` : 'Ready.');
+}
+
+$('districtSearch').addEventListener('input',showSuggestions);
+$('stateFilter').addEventListener('change', e => loadDistrictsForState(e.target.value));
+$('loadBtn').onclick=loadSelected;
+document.querySelectorAll('.tab').forEach(t=>t.onclick=()=>{document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active')); t.classList.add('active'); currentView=t.dataset.view; if(selectedSeries.length) drawEnrollment(selectedSeries);});
+$('downloadCsv').onclick=()=>{
+  const rows=['year,enrollment,yoy_change,number_of_schools,type'];
+  selectedSeries.forEach((d,i)=>{
+    const prev=i?selectedSeries[i-1].enrollment:null;
+    const yoy=Number.isFinite(prev)&&prev>0&&Number.isFinite(d.enrollment)?(d.enrollment-prev)/prev:null;
+    rows.push(`${d.label || schoolYearLabel(d.year)},${d.enrollment??''},${yoy??''},${d.schools??''},actual`);
+  });
+  forecast(selectedSeries).forEach(d=>rows.push(`${d.label || schoolYearLabel(d.year)},${d.enrollment??''},,,rolling_3yr_apc_forecast`));
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(new Blob([rows.join('\n')],{type:'text/csv'}));
+  a.download=`${selectedDistrict.leaid}_local_membership_enrollment.csv`;
+  a.click();
+};
+
+initStateSelect();
+</script>
+
+</body>
+</html>
