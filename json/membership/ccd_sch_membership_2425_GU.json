@@ -1,0 +1,2292 @@
+[
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ADACAO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200041,
+    "grade": "Grade 1",
+    "student_count": 41
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ADACAO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200041,
+    "grade": "Grade 2",
+    "student_count": 65
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ADACAO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200041,
+    "grade": "Grade 3",
+    "student_count": 64
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ADACAO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200041,
+    "grade": "Grade 4",
+    "student_count": 69
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ADACAO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200041,
+    "grade": "Grade 5",
+    "student_count": 67
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ADACAO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200041,
+    "grade": "Kindergarten",
+    "student_count": 49
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "AGANA HEIGHTS ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200042,
+    "grade": "Grade 1",
+    "student_count": 58
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "AGANA HEIGHTS ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200042,
+    "grade": "Grade 2",
+    "student_count": 57
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "AGANA HEIGHTS ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200042,
+    "grade": "Grade 3",
+    "student_count": 62
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "AGANA HEIGHTS ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200042,
+    "grade": "Grade 4",
+    "student_count": 42
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "AGANA HEIGHTS ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200042,
+    "grade": "Grade 5",
+    "student_count": 62
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "AGANA HEIGHTS ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200042,
+    "grade": "Kindergarten",
+    "student_count": 46
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ASTUMBO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200043,
+    "grade": "Grade 1",
+    "student_count": 48
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ASTUMBO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200043,
+    "grade": "Grade 2",
+    "student_count": 62
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ASTUMBO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200043,
+    "grade": "Grade 3",
+    "student_count": 62
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ASTUMBO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200043,
+    "grade": "Grade 4",
+    "student_count": 63
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ASTUMBO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200043,
+    "grade": "Grade 5",
+    "student_count": 67
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ASTUMBO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200043,
+    "grade": "Kindergarten",
+    "student_count": 48
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "B.P. CARBULLIDO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200044,
+    "grade": "Grade 1",
+    "student_count": 62
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "B.P. CARBULLIDO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200044,
+    "grade": "Grade 2",
+    "student_count": 69
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "B.P. CARBULLIDO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200044,
+    "grade": "Grade 3",
+    "student_count": 59
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "B.P. CARBULLIDO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200044,
+    "grade": "Grade 4",
+    "student_count": 59
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "B.P. CARBULLIDO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200044,
+    "grade": "Grade 5",
+    "student_count": 57
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "B.P. CARBULLIDO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200044,
+    "grade": "Kindergarten",
+    "student_count": 54
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "C.L. TAITANO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200045,
+    "grade": "Grade 1",
+    "student_count": 62
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "C.L. TAITANO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200045,
+    "grade": "Grade 2",
+    "student_count": 52
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "C.L. TAITANO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200045,
+    "grade": "Grade 3",
+    "student_count": 67
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "C.L. TAITANO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200045,
+    "grade": "Grade 4",
+    "student_count": 62
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "C.L. TAITANO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200045,
+    "grade": "Grade 5",
+    "student_count": 80
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "C.L. TAITANO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200045,
+    "grade": "Kindergarten",
+    "student_count": 59
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "CHIEF BRODIE ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200046,
+    "grade": "Grade 1",
+    "student_count": 25
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "CHIEF BRODIE ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200046,
+    "grade": "Grade 2",
+    "student_count": 40
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "CHIEF BRODIE ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200046,
+    "grade": "Grade 3",
+    "student_count": 52
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "CHIEF BRODIE ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200046,
+    "grade": "Grade 4",
+    "student_count": 37
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "CHIEF BRODIE ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200046,
+    "grade": "Grade 5",
+    "student_count": 41
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "CHIEF BRODIE ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200046,
+    "grade": "Kindergarten",
+    "student_count": 32
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "D.L. PEREZ ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200047,
+    "grade": "Grade 1",
+    "student_count": 100
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "D.L. PEREZ ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200047,
+    "grade": "Grade 2",
+    "student_count": 89
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "D.L. PEREZ ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200047,
+    "grade": "Grade 3",
+    "student_count": 105
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "D.L. PEREZ ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200047,
+    "grade": "Grade 4",
+    "student_count": 105
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "D.L. PEREZ ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200047,
+    "grade": "Grade 5",
+    "student_count": 112
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "D.L. PEREZ ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200047,
+    "grade": "Kindergarten",
+    "student_count": 82
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "FINEGAYAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200048,
+    "grade": "Grade 1",
+    "student_count": 110
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "FINEGAYAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200048,
+    "grade": "Grade 2",
+    "student_count": 146
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "FINEGAYAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200048,
+    "grade": "Grade 3",
+    "student_count": 138
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "FINEGAYAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200048,
+    "grade": "Grade 4",
+    "student_count": 153
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "FINEGAYAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200048,
+    "grade": "Grade 5",
+    "student_count": 124
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "FINEGAYAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200048,
+    "grade": "Kindergarten",
+    "student_count": 97
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "H.S. TRUMAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200049,
+    "grade": "Grade 1",
+    "student_count": 35
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "H.S. TRUMAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200049,
+    "grade": "Grade 2",
+    "student_count": 37
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "H.S. TRUMAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200049,
+    "grade": "Grade 3",
+    "student_count": 32
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "H.S. TRUMAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200049,
+    "grade": "Grade 4",
+    "student_count": 34
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "H.S. TRUMAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200049,
+    "grade": "Grade 5",
+    "student_count": 37
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "H.S. TRUMAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200049,
+    "grade": "Kindergarten",
+    "student_count": 27
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "INARAJAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200050,
+    "grade": "Grade 1",
+    "student_count": 29
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "INARAJAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200050,
+    "grade": "Grade 2",
+    "student_count": 35
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "INARAJAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200050,
+    "grade": "Grade 3",
+    "student_count": 37
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "INARAJAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200050,
+    "grade": "Grade 4",
+    "student_count": 34
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "INARAJAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200050,
+    "grade": "Grade 5",
+    "student_count": 37
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "INARAJAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200050,
+    "grade": "Kindergarten",
+    "student_count": 19
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "JUAN M. GUERRERO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200051,
+    "grade": "Grade 1",
+    "student_count": 58
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "JUAN M. GUERRERO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200051,
+    "grade": "Grade 2",
+    "student_count": 66
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "JUAN M. GUERRERO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200051,
+    "grade": "Grade 3",
+    "student_count": 60
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "JUAN M. GUERRERO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200051,
+    "grade": "Grade 4",
+    "student_count": 56
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "JUAN M. GUERRERO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200051,
+    "grade": "Grade 5",
+    "student_count": 62
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "JUAN M. GUERRERO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200051,
+    "grade": "Kindergarten",
+    "student_count": 58
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "J.Q. SAN MIGUEL ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200052,
+    "grade": "Grade 1",
+    "student_count": 76
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "J.Q. SAN MIGUEL ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200052,
+    "grade": "Grade 2",
+    "student_count": 74
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "J.Q. SAN MIGUEL ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200052,
+    "grade": "Grade 3",
+    "student_count": 80
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "J.Q. SAN MIGUEL ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200052,
+    "grade": "Grade 4",
+    "student_count": 99
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "J.Q. SAN MIGUEL ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200052,
+    "grade": "Grade 5",
+    "student_count": 84
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "J.Q. SAN MIGUEL ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200052,
+    "grade": "Kindergarten",
+    "student_count": 70
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "LIGUAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200053,
+    "grade": "Grade 1",
+    "student_count": 44
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "LIGUAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200053,
+    "grade": "Grade 2",
+    "student_count": 45
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "LIGUAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200053,
+    "grade": "Grade 3",
+    "student_count": 64
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "LIGUAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200053,
+    "grade": "Grade 4",
+    "student_count": 50
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "LIGUAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200053,
+    "grade": "Grade 5",
+    "student_count": 67
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "LIGUAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200053,
+    "grade": "Kindergarten",
+    "student_count": 38
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "L.B. JOHNSON ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200054,
+    "grade": "Grade 1",
+    "student_count": 104
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "L.B. JOHNSON ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200054,
+    "grade": "Kindergarten",
+    "student_count": 80
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MARIA ULLOA ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200055,
+    "grade": "Grade 1",
+    "student_count": 96
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MARIA ULLOA ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200055,
+    "grade": "Grade 2",
+    "student_count": 77
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MARIA ULLOA ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200055,
+    "grade": "Grade 3",
+    "student_count": 100
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MARIA ULLOA ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200055,
+    "grade": "Grade 4",
+    "student_count": 69
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MARIA ULLOA ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200055,
+    "grade": "Grade 5",
+    "student_count": 103
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MARIA ULLOA ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200055,
+    "grade": "Kindergarten",
+    "student_count": 72
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "M.U. LUJAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200056,
+    "grade": "Grade 1",
+    "student_count": 92
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "M.U. LUJAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200056,
+    "grade": "Grade 2",
+    "student_count": 79
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "M.U. LUJAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200056,
+    "grade": "Grade 3",
+    "student_count": 95
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "M.U. LUJAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200056,
+    "grade": "Grade 4",
+    "student_count": 63
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "M.U. LUJAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200056,
+    "grade": "Grade 5",
+    "student_count": 76
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "M.U. LUJAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200056,
+    "grade": "Kindergarten",
+    "student_count": 87
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MARCIAL SABLAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200057,
+    "grade": "Grade 1",
+    "student_count": 46
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MARCIAL SABLAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200057,
+    "grade": "Grade 2",
+    "student_count": 49
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MARCIAL SABLAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200057,
+    "grade": "Grade 3",
+    "student_count": 46
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MARCIAL SABLAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200057,
+    "grade": "Grade 4",
+    "student_count": 48
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MARCIAL SABLAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200057,
+    "grade": "Grade 5",
+    "student_count": 53
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MARCIAL SABLAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200057,
+    "grade": "Kindergarten",
+    "student_count": 39
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MERIZO MARTYRS ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200058,
+    "grade": "Grade 1",
+    "student_count": 26
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MERIZO MARTYRS ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200058,
+    "grade": "Grade 2",
+    "student_count": 32
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MERIZO MARTYRS ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200058,
+    "grade": "Grade 3",
+    "student_count": 29
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MERIZO MARTYRS ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200058,
+    "grade": "Grade 4",
+    "student_count": 31
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MERIZO MARTYRS ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200058,
+    "grade": "Grade 5",
+    "student_count": 32
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MERIZO MARTYRS ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200058,
+    "grade": "Kindergarten",
+    "student_count": 28
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MACHANANAO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200059,
+    "grade": "Grade 1",
+    "student_count": 64
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MACHANANAO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200059,
+    "grade": "Grade 2",
+    "student_count": 56
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MACHANANAO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200059,
+    "grade": "Grade 3",
+    "student_count": 70
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MACHANANAO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200059,
+    "grade": "Grade 4",
+    "student_count": 72
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MACHANANAO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200059,
+    "grade": "Grade 5",
+    "student_count": 60
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "MACHANANAO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200059,
+    "grade": "Kindergarten",
+    "student_count": 57
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ORDOT CHALAN PAGO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200060,
+    "grade": "Grade 1",
+    "student_count": 55
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ORDOT CHALAN PAGO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200060,
+    "grade": "Grade 2",
+    "student_count": 67
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ORDOT CHALAN PAGO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200060,
+    "grade": "Grade 3",
+    "student_count": 43
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ORDOT CHALAN PAGO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200060,
+    "grade": "Grade 4",
+    "student_count": 66
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ORDOT CHALAN PAGO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200060,
+    "grade": "Grade 5",
+    "student_count": 64
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ORDOT CHALAN PAGO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200060,
+    "grade": "Kindergarten",
+    "student_count": 43
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "PEDRO C. LUJAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200061,
+    "grade": "Grade 1",
+    "student_count": 47
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "PEDRO C. LUJAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200061,
+    "grade": "Grade 2",
+    "student_count": 61
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "PEDRO C. LUJAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200061,
+    "grade": "Grade 3",
+    "student_count": 52
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "PEDRO C. LUJAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200061,
+    "grade": "Grade 4",
+    "student_count": 62
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "PEDRO C. LUJAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200061,
+    "grade": "Grade 5",
+    "student_count": 51
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "PEDRO C. LUJAN ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200061,
+    "grade": "Kindergarten",
+    "student_count": 59
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "H.B. PRICE ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200062,
+    "grade": "Grade 1",
+    "student_count": 73
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "H.B. PRICE ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200062,
+    "grade": "Grade 2",
+    "student_count": 90
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "H.B. PRICE ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200062,
+    "grade": "Grade 3",
+    "student_count": 102
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "H.B. PRICE ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200062,
+    "grade": "Grade 4",
+    "student_count": 87
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "H.B. PRICE ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200062,
+    "grade": "Grade 5",
+    "student_count": 101
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "H.B. PRICE ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200062,
+    "grade": "Kindergarten",
+    "student_count": 66
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "TALOFOFO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200063,
+    "grade": "Grade 1",
+    "student_count": 36
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "TALOFOFO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200063,
+    "grade": "Grade 2",
+    "student_count": 30
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "TALOFOFO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200063,
+    "grade": "Grade 3",
+    "student_count": 35
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "TALOFOFO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200063,
+    "grade": "Grade 4",
+    "student_count": 26
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "TALOFOFO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200063,
+    "grade": "Grade 5",
+    "student_count": 41
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "TALOFOFO ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200063,
+    "grade": "Kindergarten",
+    "student_count": 28
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "TAMUNING ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200064,
+    "grade": "Grade 2",
+    "student_count": 105
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "TAMUNING ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200064,
+    "grade": "Grade 3",
+    "student_count": 117
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "TAMUNING ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200064,
+    "grade": "Grade 4",
+    "student_count": 104
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "TAMUNING ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200064,
+    "grade": "Grade 5",
+    "student_count": 101
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "UPI ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200065,
+    "grade": "Grade 1",
+    "student_count": 70
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "UPI ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200065,
+    "grade": "Grade 2",
+    "student_count": 83
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "UPI ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200065,
+    "grade": "Grade 3",
+    "student_count": 83
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "UPI ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200065,
+    "grade": "Grade 4",
+    "student_count": 79
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "UPI ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200065,
+    "grade": "Grade 5",
+    "student_count": 79
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "UPI ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200065,
+    "grade": "Kindergarten",
+    "student_count": 57
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "WETTENGEL ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200066,
+    "grade": "Grade 1",
+    "student_count": 85
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "WETTENGEL ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200066,
+    "grade": "Grade 2",
+    "student_count": 83
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "WETTENGEL ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200066,
+    "grade": "Grade 3",
+    "student_count": 83
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "WETTENGEL ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200066,
+    "grade": "Grade 4",
+    "student_count": 94
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "WETTENGEL ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200066,
+    "grade": "Grade 5",
+    "student_count": 98
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "WETTENGEL ELEMENTARY SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200066,
+    "grade": "Kindergarten",
+    "student_count": 65
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "AGUEDA JOHNSTON MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200067,
+    "grade": "Grade 6",
+    "student_count": 193
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "AGUEDA JOHNSTON MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200067,
+    "grade": "Grade 7",
+    "student_count": 202
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "AGUEDA JOHNSTON MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200067,
+    "grade": "Grade 8",
+    "student_count": 171
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ASTUMBO MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200068,
+    "grade": "Grade 6",
+    "student_count": 119
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ASTUMBO MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200068,
+    "grade": "Grade 7",
+    "student_count": 158
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "ASTUMBO MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200068,
+    "grade": "Grade 8",
+    "student_count": 142
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "F.B. LEON GUERRERO MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200069,
+    "grade": "Grade 6",
+    "student_count": 275
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "F.B. LEON GUERRERO MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200069,
+    "grade": "Grade 7",
+    "student_count": 304
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "F.B. LEON GUERRERO MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200069,
+    "grade": "Grade 8",
+    "student_count": 279
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "INARAJAN MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200070,
+    "grade": "Grade 6",
+    "student_count": 137
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "INARAJAN MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200070,
+    "grade": "Grade 7",
+    "student_count": 142
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "INARAJAN MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200070,
+    "grade": "Grade 8",
+    "student_count": 136
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "JOSE RIOS MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200071,
+    "grade": "Grade 6",
+    "student_count": 211
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "JOSE RIOS MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200071,
+    "grade": "Grade 7",
+    "student_count": 199
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "JOSE RIOS MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200071,
+    "grade": "Grade 8",
+    "student_count": 204
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "LUIS P. UNTALAN MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200072,
+    "grade": "Grade 6",
+    "student_count": 306
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "LUIS P. UNTALAN MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200072,
+    "grade": "Grade 7",
+    "student_count": 271
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "LUIS P. UNTALAN MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200072,
+    "grade": "Grade 8",
+    "student_count": 317
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "OCEANVIEW MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200073,
+    "grade": "Grade 6",
+    "student_count": 106
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "OCEANVIEW MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200073,
+    "grade": "Grade 7",
+    "student_count": 102
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "OCEANVIEW MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200073,
+    "grade": "Grade 8",
+    "student_count": 127
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "VICENTE BENAVENTE MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200074,
+    "grade": "Grade 6",
+    "student_count": 297
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "VICENTE BENAVENTE MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200074,
+    "grade": "Grade 7",
+    "student_count": 300
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "VICENTE BENAVENTE MIDDLE SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200074,
+    "grade": "Grade 8",
+    "student_count": 303
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "GEORGE WASHINGTON HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200075,
+    "grade": "Grade 10",
+    "student_count": 327
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "GEORGE WASHINGTON HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200075,
+    "grade": "Grade 11",
+    "student_count": 327
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "GEORGE WASHINGTON HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200075,
+    "grade": "Grade 12",
+    "student_count": 309
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "GEORGE WASHINGTON HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200075,
+    "grade": "Grade 9",
+    "student_count": 298
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "JOHN F. KENNEDY HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200076,
+    "grade": "Grade 10",
+    "student_count": 461
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "JOHN F. KENNEDY HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200076,
+    "grade": "Grade 11",
+    "student_count": 412
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "JOHN F. KENNEDY HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200076,
+    "grade": "Grade 12",
+    "student_count": 285
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "JOHN F. KENNEDY HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200076,
+    "grade": "Grade 9",
+    "student_count": 492
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "OKKODO HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200077,
+    "grade": "Grade 10",
+    "student_count": 377
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "OKKODO HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200077,
+    "grade": "Grade 11",
+    "student_count": 388
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "OKKODO HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200077,
+    "grade": "Grade 12",
+    "student_count": 287
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "OKKODO HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200077,
+    "grade": "Grade 9",
+    "student_count": 417
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "SIMON SANCHEZ HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200078,
+    "grade": "Grade 10",
+    "student_count": 386
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "SIMON SANCHEZ HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200078,
+    "grade": "Grade 11",
+    "student_count": 312
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "SIMON SANCHEZ HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200078,
+    "grade": "Grade 12",
+    "student_count": 244
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "SIMON SANCHEZ HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200078,
+    "grade": "Grade 9",
+    "student_count": 528
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "SOUTHERN HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200079,
+    "grade": "Grade 10",
+    "student_count": 217
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "SOUTHERN HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200079,
+    "grade": "Grade 11",
+    "student_count": 263
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "SOUTHERN HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200079,
+    "grade": "Grade 12",
+    "student_count": 322
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "SOUTHERN HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200079,
+    "grade": "Grade 9",
+    "student_count": 252
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "TIYAN HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200080,
+    "grade": "Grade 10",
+    "student_count": 348
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "TIYAN HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200080,
+    "grade": "Grade 11",
+    "student_count": 262
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "TIYAN HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200080,
+    "grade": "Grade 12",
+    "student_count": 157
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "TIYAN HIGH SCHOOL",
+    "leaid": 6600002,
+    "ncessch": 660000200080,
+    "grade": "Grade 9",
+    "student_count": 228
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "J.P. TORRES SUCCESS ACADEMY",
+    "leaid": 6600002,
+    "ncessch": 660000200082,
+    "grade": "Grade 10",
+    "student_count": 31
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "J.P. TORRES SUCCESS ACADEMY",
+    "leaid": 6600002,
+    "ncessch": 660000200082,
+    "grade": "Grade 11",
+    "student_count": 89
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "J.P. TORRES SUCCESS ACADEMY",
+    "leaid": 6600002,
+    "ncessch": 660000200082,
+    "grade": "Grade 12",
+    "student_count": 47
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "J.P. TORRES SUCCESS ACADEMY",
+    "leaid": 6600002,
+    "ncessch": 660000200082,
+    "grade": "Grade 9",
+    "student_count": 6
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Science is Fun and Awesome Learning Academy Charter School",
+    "leaid": 6600003,
+    "ncessch": 660000300085,
+    "grade": "Grade 6",
+    "student_count": 178
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Science is Fun and Awesome Learning Academy Charter School",
+    "leaid": 6600003,
+    "ncessch": 660000300085,
+    "grade": "Grade 7",
+    "student_count": 173
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Science is Fun and Awesome Learning Academy Charter School",
+    "leaid": 6600003,
+    "ncessch": 660000300085,
+    "grade": "Grade 8",
+    "student_count": 119
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Guahan Academy Charter School",
+    "leaid": 6600004,
+    "ncessch": 660000400083,
+    "grade": "Grade 1",
+    "student_count": 47
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Guahan Academy Charter School",
+    "leaid": 6600004,
+    "ncessch": 660000400083,
+    "grade": "Grade 10",
+    "student_count": 65
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Guahan Academy Charter School",
+    "leaid": 6600004,
+    "ncessch": 660000400083,
+    "grade": "Grade 11",
+    "student_count": 49
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Guahan Academy Charter School",
+    "leaid": 6600004,
+    "ncessch": 660000400083,
+    "grade": "Grade 12",
+    "student_count": 53
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Guahan Academy Charter School",
+    "leaid": 6600004,
+    "ncessch": 660000400083,
+    "grade": "Grade 2",
+    "student_count": 58
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Guahan Academy Charter School",
+    "leaid": 6600004,
+    "ncessch": 660000400083,
+    "grade": "Grade 3",
+    "student_count": 66
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Guahan Academy Charter School",
+    "leaid": 6600004,
+    "ncessch": 660000400083,
+    "grade": "Grade 4",
+    "student_count": 53
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Guahan Academy Charter School",
+    "leaid": 6600004,
+    "ncessch": 660000400083,
+    "grade": "Grade 5",
+    "student_count": 64
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Guahan Academy Charter School",
+    "leaid": 6600004,
+    "ncessch": 660000400083,
+    "grade": "Grade 6",
+    "student_count": 73
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Guahan Academy Charter School",
+    "leaid": 6600004,
+    "ncessch": 660000400083,
+    "grade": "Grade 7",
+    "student_count": 73
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Guahan Academy Charter School",
+    "leaid": 6600004,
+    "ncessch": 660000400083,
+    "grade": "Grade 8",
+    "student_count": 70
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Guahan Academy Charter School",
+    "leaid": 6600004,
+    "ncessch": 660000400083,
+    "grade": "Grade 9",
+    "student_count": 73
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Guahan Academy Charter School",
+    "leaid": 6600004,
+    "ncessch": 660000400083,
+    "grade": "Kindergarten",
+    "student_count": 41
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "iLearn Academy Charter School",
+    "leaid": 6600005,
+    "ncessch": 660000500084,
+    "grade": "Grade 1",
+    "student_count": 146
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "iLearn Academy Charter School",
+    "leaid": 6600005,
+    "ncessch": 660000500084,
+    "grade": "Grade 2",
+    "student_count": 130
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "iLearn Academy Charter School",
+    "leaid": 6600005,
+    "ncessch": 660000500084,
+    "grade": "Grade 3",
+    "student_count": 128
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "iLearn Academy Charter School",
+    "leaid": 6600005,
+    "ncessch": 660000500084,
+    "grade": "Grade 4",
+    "student_count": 128
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "iLearn Academy Charter School",
+    "leaid": 6600005,
+    "ncessch": 660000500084,
+    "grade": "Grade 5",
+    "student_count": 130
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "iLearn Academy Charter School",
+    "leaid": 6600005,
+    "ncessch": 660000500084,
+    "grade": "Kindergarten",
+    "student_count": 117
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Career Tech High Academy Charter School",
+    "leaid": 6600041,
+    "ncessch": 660004100086,
+    "grade": "Grade 10",
+    "student_count": 49
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Career Tech High Academy Charter School",
+    "leaid": 6600041,
+    "ncessch": 660004100086,
+    "grade": "Grade 11",
+    "student_count": 52
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Career Tech High Academy Charter School",
+    "leaid": 6600041,
+    "ncessch": 660004100086,
+    "grade": "Grade 12",
+    "student_count": 52
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Career Tech High Academy Charter School",
+    "leaid": 6600041,
+    "ncessch": 660004100086,
+    "grade": "Grade 8",
+    "student_count": 1
+  },
+  {
+    "school_year": "2024-2025",
+    "statename": "GUAM",
+    "st": "GU",
+    "sch_name": "Career Tech High Academy Charter School",
+    "leaid": 6600041,
+    "ncessch": 660004100086,
+    "grade": "Grade 9",
+    "student_count": 45
+  }
+]
