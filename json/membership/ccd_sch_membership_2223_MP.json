@@ -1,0 +1,992 @@
+[
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "WILLIAM S. REYES ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200049,
+    "grade": "Grade 1",
+    "student_count": 92
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "WILLIAM S. REYES ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200049,
+    "grade": "Grade 2",
+    "student_count": 91
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "WILLIAM S. REYES ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200049,
+    "grade": "Grade 3",
+    "student_count": 106
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "WILLIAM S. REYES ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200049,
+    "grade": "Grade 4",
+    "student_count": 112
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "WILLIAM S. REYES ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200049,
+    "grade": "Grade 5",
+    "student_count": 99
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "WILLIAM S. REYES ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200049,
+    "grade": "Kindergarten",
+    "student_count": 81
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "FRANCISCO MENDIOLA SABLAN MIDDLE SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200051,
+    "grade": "Grade 6",
+    "student_count": 123
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "FRANCISCO MENDIOLA SABLAN MIDDLE SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200051,
+    "grade": "Grade 7",
+    "student_count": 113
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "FRANCISCO MENDIOLA SABLAN MIDDLE SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200051,
+    "grade": "Grade 8",
+    "student_count": 140
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "SINAPALO ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200055,
+    "grade": "Grade 1",
+    "student_count": 35
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "SINAPALO ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200055,
+    "grade": "Grade 2",
+    "student_count": 34
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "SINAPALO ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200055,
+    "grade": "Grade 3",
+    "student_count": 20
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "SINAPALO ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200055,
+    "grade": "Grade 4",
+    "student_count": 27
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "SINAPALO ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200055,
+    "grade": "Grade 5",
+    "student_count": 29
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "SINAPALO ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200055,
+    "grade": "Grade 6",
+    "student_count": 44
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "SINAPALO ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200055,
+    "grade": "Kindergarten",
+    "student_count": 24
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "MARIANAS HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200056,
+    "grade": "Grade 10",
+    "student_count": 406
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "MARIANAS HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200056,
+    "grade": "Grade 11",
+    "student_count": 379
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "MARIANAS HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200056,
+    "grade": "Grade 12",
+    "student_count": 284
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "MARIANAS HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200056,
+    "grade": "Grade 9",
+    "student_count": 461
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "GARAPAN ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200058,
+    "grade": "Grade 1",
+    "student_count": 93
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "GARAPAN ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200058,
+    "grade": "Grade 2",
+    "student_count": 87
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "GARAPAN ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200058,
+    "grade": "Grade 3",
+    "student_count": 75
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "GARAPAN ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200058,
+    "grade": "Grade 4",
+    "student_count": 74
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "GARAPAN ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200058,
+    "grade": "Grade 5",
+    "student_count": 92
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "GARAPAN ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200058,
+    "grade": "Kindergarten",
+    "student_count": 71
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "DR. RITA HOCOG INOS JR. SR. HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200060,
+    "grade": "Grade 10",
+    "student_count": 42
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "DR. RITA HOCOG INOS JR. SR. HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200060,
+    "grade": "Grade 11",
+    "student_count": 38
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "DR. RITA HOCOG INOS JR. SR. HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200060,
+    "grade": "Grade 12",
+    "student_count": 37
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "DR. RITA HOCOG INOS JR. SR. HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200060,
+    "grade": "Grade 7",
+    "student_count": 42
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "DR. RITA HOCOG INOS JR. SR. HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200060,
+    "grade": "Grade 8",
+    "student_count": 28
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "DR. RITA HOCOG INOS JR. SR. HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200060,
+    "grade": "Grade 9",
+    "student_count": 36
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "OLEAI ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200061,
+    "grade": "Grade 1",
+    "student_count": 52
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "OLEAI ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200061,
+    "grade": "Grade 2",
+    "student_count": 47
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "OLEAI ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200061,
+    "grade": "Grade 3",
+    "student_count": 72
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "OLEAI ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200061,
+    "grade": "Grade 4",
+    "student_count": 60
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "OLEAI ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200061,
+    "grade": "Grade 5",
+    "student_count": 67
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "OLEAI ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200061,
+    "grade": "Kindergarten",
+    "student_count": 58
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "TANAPAG MIDDLE SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200062,
+    "grade": "Grade 6",
+    "student_count": 107
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "TANAPAG MIDDLE SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200062,
+    "grade": "Grade 7",
+    "student_count": 98
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "TANAPAG MIDDLE SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200062,
+    "grade": "Grade 8",
+    "student_count": 106
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "TINIAN JR. SR. HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200065,
+    "grade": "Grade 10",
+    "student_count": 35
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "TINIAN JR. SR. HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200065,
+    "grade": "Grade 11",
+    "student_count": 38
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "TINIAN JR. SR. HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200065,
+    "grade": "Grade 12",
+    "student_count": 38
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "TINIAN JR. SR. HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200065,
+    "grade": "Grade 7",
+    "student_count": 45
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "TINIAN JR. SR. HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200065,
+    "grade": "Grade 8",
+    "student_count": 33
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "TINIAN JR. SR. HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200065,
+    "grade": "Grade 9",
+    "student_count": 44
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "HOPWOOD MIDDLE SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200066,
+    "grade": "Grade 6",
+    "student_count": 198
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "HOPWOOD MIDDLE SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200066,
+    "grade": "Grade 7",
+    "student_count": 203
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "HOPWOOD MIDDLE SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200066,
+    "grade": "Grade 8",
+    "student_count": 232
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "GREGORIO T. CAMACHO ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200067,
+    "grade": "Grade 1",
+    "student_count": 49
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "GREGORIO T. CAMACHO ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200067,
+    "grade": "Grade 2",
+    "student_count": 46
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "GREGORIO T. CAMACHO ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200067,
+    "grade": "Grade 3",
+    "student_count": 48
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "GREGORIO T. CAMACHO ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200067,
+    "grade": "Grade 4",
+    "student_count": 55
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "GREGORIO T. CAMACHO ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200067,
+    "grade": "Grade 5",
+    "student_count": 65
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "GREGORIO T. CAMACHO ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200067,
+    "grade": "Kindergarten",
+    "student_count": 37
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "CHACHA OCEANVIEW MIDDLE SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200069,
+    "grade": "Grade 6",
+    "student_count": 79
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "CHACHA OCEANVIEW MIDDLE SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200069,
+    "grade": "Grade 7",
+    "student_count": 87
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "CHACHA OCEANVIEW MIDDLE SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200069,
+    "grade": "Grade 8",
+    "student_count": 85
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "SAN VICENTE ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200070,
+    "grade": "Grade 1",
+    "student_count": 96
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "SAN VICENTE ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200070,
+    "grade": "Grade 2",
+    "student_count": 71
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "SAN VICENTE ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200070,
+    "grade": "Grade 3",
+    "student_count": 77
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "SAN VICENTE ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200070,
+    "grade": "Grade 4",
+    "student_count": 88
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "SAN VICENTE ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200070,
+    "grade": "Grade 5",
+    "student_count": 104
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "SAN VICENTE ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200070,
+    "grade": "Kindergarten",
+    "student_count": 69
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "DANDAN MIDDLE SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200071,
+    "grade": "Grade 6",
+    "student_count": 118
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "DANDAN MIDDLE SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200071,
+    "grade": "Grade 7",
+    "student_count": 146
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "DANDAN MIDDLE SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200071,
+    "grade": "Grade 8",
+    "student_count": 138
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "KAGMAN HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200073,
+    "grade": "Grade 10",
+    "student_count": 120
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "KAGMAN HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200073,
+    "grade": "Grade 11",
+    "student_count": 104
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "KAGMAN HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200073,
+    "grade": "Grade 12",
+    "student_count": 92
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "KAGMAN HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200073,
+    "grade": "Grade 9",
+    "student_count": 196
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "TINIAN ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200077,
+    "grade": "Grade 1",
+    "student_count": 38
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "TINIAN ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200077,
+    "grade": "Grade 2",
+    "student_count": 27
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "TINIAN ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200077,
+    "grade": "Grade 3",
+    "student_count": 35
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "TINIAN ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200077,
+    "grade": "Grade 4",
+    "student_count": 37
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "TINIAN ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200077,
+    "grade": "Grade 5",
+    "student_count": 31
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "TINIAN ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200077,
+    "grade": "Grade 6",
+    "student_count": 32
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "TINIAN ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200077,
+    "grade": "Kindergarten",
+    "student_count": 22
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "SAIPAN SOUTHERN HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200078,
+    "grade": "Grade 10",
+    "student_count": 204
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "SAIPAN SOUTHERN HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200078,
+    "grade": "Grade 11",
+    "student_count": 124
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "SAIPAN SOUTHERN HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200078,
+    "grade": "Grade 12",
+    "student_count": 91
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "SAIPAN SOUTHERN HIGH SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200078,
+    "grade": "Grade 9",
+    "student_count": 276
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "KOBLERVILLE ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200079,
+    "grade": "Grade 1",
+    "student_count": 91
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "KOBLERVILLE ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200079,
+    "grade": "Grade 2",
+    "student_count": 84
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "KOBLERVILLE ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200079,
+    "grade": "Grade 3",
+    "student_count": 101
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "KOBLERVILLE ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200079,
+    "grade": "Grade 4",
+    "student_count": 87
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "KOBLERVILLE ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200079,
+    "grade": "Grade 5",
+    "student_count": 99
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "KOBLERVILLE ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200079,
+    "grade": "Kindergarten",
+    "student_count": 46
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "DA'OK ACADEMY",
+    "leaid": 6900002,
+    "ncessch": 690000200080,
+    "grade": "Grade 10",
+    "student_count": 22
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "DA'OK ACADEMY",
+    "leaid": 6900002,
+    "ncessch": 690000200080,
+    "grade": "Grade 11",
+    "student_count": 20
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "DA'OK ACADEMY",
+    "leaid": 6900002,
+    "ncessch": 690000200080,
+    "grade": "Grade 12",
+    "student_count": 5
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "DA'OK ACADEMY",
+    "leaid": 6900002,
+    "ncessch": 690000200080,
+    "grade": "Grade 9",
+    "student_count": 16
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "KAGMAN ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200081,
+    "grade": "Grade 1",
+    "student_count": 73
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "KAGMAN ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200081,
+    "grade": "Grade 2",
+    "student_count": 87
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "KAGMAN ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200081,
+    "grade": "Grade 3",
+    "student_count": 78
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "KAGMAN ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200081,
+    "grade": "Grade 4",
+    "student_count": 81
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "KAGMAN ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200081,
+    "grade": "Grade 5",
+    "student_count": 78
+  },
+  {
+    "school_year": "2022-2023",
+    "statename": "NORTHERN MARIANAS",
+    "st": "MP",
+    "sch_name": "KAGMAN ELEMENTARY SCHOOL",
+    "leaid": 6900002,
+    "ncessch": 690000200081,
+    "grade": "Kindergarten",
+    "student_count": 57
+  }
+]
