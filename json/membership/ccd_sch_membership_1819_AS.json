@@ -1,0 +1,2312 @@
+[
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Afonotele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000001,
+    "grade": "Grade 1",
+    "student_count": 6
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Afonotele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000001,
+    "grade": "Grade 2",
+    "student_count": 4
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Afonotele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000001,
+    "grade": "Grade 3",
+    "student_count": 5
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Afonotele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000001,
+    "grade": "Grade 4",
+    "student_count": 4
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Afonotele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000001,
+    "grade": "Grade 5",
+    "student_count": 5
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Afonotele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000001,
+    "grade": "Grade 6",
+    "student_count": 5
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Afonotele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000001,
+    "grade": "Grade 7",
+    "student_count": 10
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Afonotele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000001,
+    "grade": "Grade 8",
+    "student_count": 5
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Afonotele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000001,
+    "grade": "Kindergarten",
+    "student_count": 5
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Alataua-Lua Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000002,
+    "grade": "Grade 1",
+    "student_count": 16
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Alataua-Lua Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000002,
+    "grade": "Grade 2",
+    "student_count": 19
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Alataua-Lua Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000002,
+    "grade": "Grade 3",
+    "student_count": 19
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Alataua-Lua Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000002,
+    "grade": "Grade 4",
+    "student_count": 21
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Alataua-Lua Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000002,
+    "grade": "Grade 5",
+    "student_count": 12
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Alataua-Lua Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000002,
+    "grade": "Grade 6",
+    "student_count": 29
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Alataua-Lua Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000002,
+    "grade": "Grade 7",
+    "student_count": 19
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Alataua-Lua Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000002,
+    "grade": "Grade 8",
+    "student_count": 16
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Alataua-Lua Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000002,
+    "grade": "Kindergarten",
+    "student_count": 17
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Alofau Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000003,
+    "grade": "Grade 1",
+    "student_count": 20
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Alofau Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000003,
+    "grade": "Grade 2",
+    "student_count": 16
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Alofau Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000003,
+    "grade": "Grade 3",
+    "student_count": 9
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Alofau Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000003,
+    "grade": "Grade 4",
+    "student_count": 13
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Alofau Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000003,
+    "grade": "Grade 5",
+    "student_count": 19
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Alofau Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000003,
+    "grade": "Grade 6",
+    "student_count": 16
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Alofau Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000003,
+    "grade": "Grade 7",
+    "student_count": 18
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Alofau Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000003,
+    "grade": "Grade 8",
+    "student_count": 14
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Alofau Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000003,
+    "grade": "Kindergarten",
+    "student_count": 12
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Aua Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000004,
+    "grade": "Grade 1",
+    "student_count": 43
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Aua Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000004,
+    "grade": "Grade 2",
+    "student_count": 41
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Aua Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000004,
+    "grade": "Grade 3",
+    "student_count": 42
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Aua Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000004,
+    "grade": "Grade 4",
+    "student_count": 51
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Aua Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000004,
+    "grade": "Grade 5",
+    "student_count": 47
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Aua Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000004,
+    "grade": "Grade 6",
+    "student_count": 40
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Aua Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000004,
+    "grade": "Grade 7",
+    "student_count": 47
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Aua Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000004,
+    "grade": "Grade 8",
+    "student_count": 57
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Aua Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000004,
+    "grade": "Kindergarten",
+    "student_count": 43
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "A.P Lutali",
+    "leaid": 6000030,
+    "ncessch": 600003000005,
+    "grade": "Grade 1",
+    "student_count": 8
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "A.P Lutali",
+    "leaid": 6000030,
+    "ncessch": 600003000005,
+    "grade": "Grade 2",
+    "student_count": 7
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "A.P Lutali",
+    "leaid": 6000030,
+    "ncessch": 600003000005,
+    "grade": "Grade 3",
+    "student_count": 8
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "A.P Lutali",
+    "leaid": 6000030,
+    "ncessch": 600003000005,
+    "grade": "Grade 4",
+    "student_count": 9
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "A.P Lutali",
+    "leaid": 6000030,
+    "ncessch": 600003000005,
+    "grade": "Grade 5",
+    "student_count": 10
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "A.P Lutali",
+    "leaid": 6000030,
+    "ncessch": 600003000005,
+    "grade": "Grade 6",
+    "student_count": 12
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "A.P Lutali",
+    "leaid": 6000030,
+    "ncessch": 600003000005,
+    "grade": "Grade 7",
+    "student_count": 6
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "A.P Lutali",
+    "leaid": 6000030,
+    "ncessch": 600003000005,
+    "grade": "Grade 8",
+    "student_count": 15
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "A.P Lutali",
+    "leaid": 6000030,
+    "ncessch": 600003000005,
+    "grade": "Kindergarten",
+    "student_count": 10
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Faga'itua High School",
+    "leaid": 6000030,
+    "ncessch": 600003000007,
+    "grade": "Grade 10",
+    "student_count": 130
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Faga'itua High School",
+    "leaid": 6000030,
+    "ncessch": 600003000007,
+    "grade": "Grade 11",
+    "student_count": 112
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Faga'itua High School",
+    "leaid": 6000030,
+    "ncessch": 600003000007,
+    "grade": "Grade 12",
+    "student_count": 130
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Faga'itua High School",
+    "leaid": 6000030,
+    "ncessch": 600003000007,
+    "grade": "Grade 9",
+    "student_count": 126
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Faleasao Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000009,
+    "grade": "Grade 1",
+    "student_count": 11
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Faleasao Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000009,
+    "grade": "Grade 2",
+    "student_count": 8
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Faleasao Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000009,
+    "grade": "Grade 3",
+    "student_count": 7
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Faleasao Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000009,
+    "grade": "Grade 4",
+    "student_count": 9
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Faleasao Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000009,
+    "grade": "Grade 5",
+    "student_count": 4
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Faleasao Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000009,
+    "grade": "Grade 6",
+    "student_count": 5
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Faleasao Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000009,
+    "grade": "Grade 7",
+    "student_count": 7
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Faleasao Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000009,
+    "grade": "Grade 8",
+    "student_count": 8
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Faleasao Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000009,
+    "grade": "Kindergarten",
+    "student_count": 5
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Fitiuta Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000010,
+    "grade": "Grade 1",
+    "student_count": 8
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Fitiuta Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000010,
+    "grade": "Grade 2",
+    "student_count": 2
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Fitiuta Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000010,
+    "grade": "Grade 3",
+    "student_count": 7
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Fitiuta Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000010,
+    "grade": "Grade 4",
+    "student_count": 7
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Fitiuta Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000010,
+    "grade": "Grade 5",
+    "student_count": 5
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Fitiuta Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000010,
+    "grade": "Grade 6",
+    "student_count": 5
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Fitiuta Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000010,
+    "grade": "Grade 7",
+    "student_count": 1
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Fitiuta Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000010,
+    "grade": "Grade 8",
+    "student_count": 5
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Fitiuta Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000010,
+    "grade": "Kindergarten",
+    "student_count": 7
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Lauli'i Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000011,
+    "grade": "Grade 1",
+    "student_count": 18
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Lauli'i Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000011,
+    "grade": "Grade 2",
+    "student_count": 15
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Lauli'i Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000011,
+    "grade": "Grade 3",
+    "student_count": 19
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Lauli'i Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000011,
+    "grade": "Grade 4",
+    "student_count": 18
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Lauli'i Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000011,
+    "grade": "Grade 5",
+    "student_count": 26
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Lauli'i Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000011,
+    "grade": "Grade 6",
+    "student_count": 16
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Lauli'i Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000011,
+    "grade": "Grade 7",
+    "student_count": 21
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Lauli'i Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000011,
+    "grade": "Grade 8",
+    "student_count": 24
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Lauli'i Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000011,
+    "grade": "Kindergarten",
+    "student_count": 15
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Le'atele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000012,
+    "grade": "Grade 1",
+    "student_count": 13
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Le'atele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000012,
+    "grade": "Grade 2",
+    "student_count": 10
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Le'atele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000012,
+    "grade": "Grade 3",
+    "student_count": 12
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Le'atele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000012,
+    "grade": "Grade 4",
+    "student_count": 6
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Le'atele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000012,
+    "grade": "Grade 5",
+    "student_count": 7
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Le'atele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000012,
+    "grade": "Grade 6",
+    "student_count": 8
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Le'atele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000012,
+    "grade": "Grade 7",
+    "student_count": 5
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Le'atele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000012,
+    "grade": "Grade 8",
+    "student_count": 10
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Le'atele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000012,
+    "grade": "Kindergarten",
+    "student_count": 8
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Leone High School",
+    "leaid": 6000030,
+    "ncessch": 600003000013,
+    "grade": "Grade 10",
+    "student_count": 187
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Leone High School",
+    "leaid": 6000030,
+    "ncessch": 600003000013,
+    "grade": "Grade 11",
+    "student_count": 158
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Leone High School",
+    "leaid": 6000030,
+    "ncessch": 600003000013,
+    "grade": "Grade 12",
+    "student_count": 152
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Leone High School",
+    "leaid": 6000030,
+    "ncessch": 600003000013,
+    "grade": "Grade 9",
+    "student_count": 231
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Leone Midkiff Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000014,
+    "grade": "Grade 1",
+    "student_count": 87
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Leone Midkiff Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000014,
+    "grade": "Grade 2",
+    "student_count": 93
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Leone Midkiff Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000014,
+    "grade": "Grade 3",
+    "student_count": 103
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Leone Midkiff Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000014,
+    "grade": "Grade 4",
+    "student_count": 91
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Leone Midkiff Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000014,
+    "grade": "Grade 5",
+    "student_count": 83
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Leone Midkiff Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000014,
+    "grade": "Grade 6",
+    "student_count": 86
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Leone Midkiff Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000014,
+    "grade": "Grade 7",
+    "student_count": 112
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Leone Midkiff Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000014,
+    "grade": "Grade 8",
+    "student_count": 94
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Leone Midkiff Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000014,
+    "grade": "Kindergarten",
+    "student_count": 72
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Lupelele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000015,
+    "grade": "Grade 1",
+    "student_count": 54
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Lupelele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000015,
+    "grade": "Grade 2",
+    "student_count": 76
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Lupelele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000015,
+    "grade": "Grade 3",
+    "student_count": 63
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Lupelele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000015,
+    "grade": "Grade 4",
+    "student_count": 73
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Lupelele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000015,
+    "grade": "Grade 5",
+    "student_count": 80
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Lupelele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000015,
+    "grade": "Grade 6",
+    "student_count": 69
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Lupelele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000015,
+    "grade": "Grade 7",
+    "student_count": 82
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Lupelele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000015,
+    "grade": "Grade 8",
+    "student_count": 83
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Lupelele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000015,
+    "grade": "Kindergarten",
+    "student_count": 51
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Manu'a High School",
+    "leaid": 6000030,
+    "ncessch": 600003000016,
+    "grade": "Grade 10",
+    "student_count": 13
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Manu'a High School",
+    "leaid": 6000030,
+    "ncessch": 600003000016,
+    "grade": "Grade 11",
+    "student_count": 14
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Manu'a High School",
+    "leaid": 6000030,
+    "ncessch": 600003000016,
+    "grade": "Grade 12",
+    "student_count": 10
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Manu'a High School",
+    "leaid": 6000030,
+    "ncessch": 600003000016,
+    "grade": "Grade 9",
+    "student_count": 10
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Manulele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000017,
+    "grade": "Grade 1",
+    "student_count": 98
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Manulele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000017,
+    "grade": "Grade 2",
+    "student_count": 95
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Manulele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000017,
+    "grade": "Grade 3",
+    "student_count": 103
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Manulele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000017,
+    "grade": "Grade 4",
+    "student_count": 102
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Manulele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000017,
+    "grade": "Grade 5",
+    "student_count": 109
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Manulele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000017,
+    "grade": "Grade 6",
+    "student_count": 120
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Manulele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000017,
+    "grade": "Grade 7",
+    "student_count": 103
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Manulele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000017,
+    "grade": "Grade 8",
+    "student_count": 115
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Manulele Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000017,
+    "grade": "Kindergarten",
+    "student_count": 70
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Matafao Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000019,
+    "grade": "Grade 1",
+    "student_count": 39
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Matafao Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000019,
+    "grade": "Grade 2",
+    "student_count": 60
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Matafao Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000019,
+    "grade": "Grade 3",
+    "student_count": 59
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Matafao Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000019,
+    "grade": "Grade 4",
+    "student_count": 52
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Matafao Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000019,
+    "grade": "Grade 5",
+    "student_count": 71
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Matafao Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000019,
+    "grade": "Grade 6",
+    "student_count": 63
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Matafao Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000019,
+    "grade": "Grade 7",
+    "student_count": 55
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Matafao Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000019,
+    "grade": "Grade 8",
+    "student_count": 83
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Matafao Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000019,
+    "grade": "Kindergarten",
+    "student_count": 48
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Matatula Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000020,
+    "grade": "Grade 1",
+    "student_count": 15
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Matatula Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000020,
+    "grade": "Grade 2",
+    "student_count": 18
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Matatula Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000020,
+    "grade": "Grade 3",
+    "student_count": 17
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Matatula Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000020,
+    "grade": "Grade 4",
+    "student_count": 24
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Matatula Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000020,
+    "grade": "Grade 5",
+    "student_count": 19
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Matatula Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000020,
+    "grade": "Grade 6",
+    "student_count": 14
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Matatula Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000020,
+    "grade": "Grade 7",
+    "student_count": 18
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Matatula Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000020,
+    "grade": "Grade 8",
+    "student_count": 13
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Matatula Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000020,
+    "grade": "Kindergarten",
+    "student_count": 4
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Mt. Alava Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000021,
+    "grade": "Grade 1",
+    "student_count": 9
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Mt. Alava Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000021,
+    "grade": "Grade 2",
+    "student_count": 8
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Mt. Alava Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000021,
+    "grade": "Grade 3",
+    "student_count": 6
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Mt. Alava Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000021,
+    "grade": "Grade 4",
+    "student_count": 7
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Mt. Alava Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000021,
+    "grade": "Grade 5",
+    "student_count": 7
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Mt. Alava Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000021,
+    "grade": "Grade 6",
+    "student_count": 6
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Mt. Alava Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000021,
+    "grade": "Grade 7",
+    "student_count": 5
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Mt. Alava Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000021,
+    "grade": "Grade 8",
+    "student_count": 7
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Mt. Alava Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000021,
+    "grade": "Kindergarten",
+    "student_count": 11
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Tafuna Elementary",
+    "leaid": 6000030,
+    "ncessch": 600003000022,
+    "grade": "Grade 1",
+    "student_count": 90
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Tafuna Elementary",
+    "leaid": 6000030,
+    "ncessch": 600003000022,
+    "grade": "Grade 2",
+    "student_count": 86
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Tafuna Elementary",
+    "leaid": 6000030,
+    "ncessch": 600003000022,
+    "grade": "Grade 3",
+    "student_count": 79
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Tafuna Elementary",
+    "leaid": 6000030,
+    "ncessch": 600003000022,
+    "grade": "Grade 4",
+    "student_count": 95
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Tafuna Elementary",
+    "leaid": 6000030,
+    "ncessch": 600003000022,
+    "grade": "Grade 5",
+    "student_count": 98
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Tafuna Elementary",
+    "leaid": 6000030,
+    "ncessch": 600003000022,
+    "grade": "Grade 6",
+    "student_count": 105
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Tafuna Elementary",
+    "leaid": 6000030,
+    "ncessch": 600003000022,
+    "grade": "Grade 7",
+    "student_count": 98
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Tafuna Elementary",
+    "leaid": 6000030,
+    "ncessch": 600003000022,
+    "grade": "Grade 8",
+    "student_count": 133
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Tafuna Elementary",
+    "leaid": 6000030,
+    "ncessch": 600003000022,
+    "grade": "Kindergarten",
+    "student_count": 81
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Olomoana Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000023,
+    "grade": "Grade 1",
+    "student_count": 6
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Olomoana Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000023,
+    "grade": "Grade 2",
+    "student_count": 11
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Olomoana Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000023,
+    "grade": "Grade 3",
+    "student_count": 12
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Olomoana Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000023,
+    "grade": "Grade 4",
+    "student_count": 12
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Olomoana Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000023,
+    "grade": "Grade 5",
+    "student_count": 5
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Olomoana Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000023,
+    "grade": "Grade 6",
+    "student_count": 11
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Olomoana Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000023,
+    "grade": "Grade 7",
+    "student_count": 12
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Olomoana Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000023,
+    "grade": "Grade 8",
+    "student_count": 11
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Olomoana Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000023,
+    "grade": "Kindergarten",
+    "student_count": 4
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Olosega Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000024,
+    "grade": "Grade 1",
+    "student_count": 6
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Olosega Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000024,
+    "grade": "Grade 2",
+    "student_count": 6
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Olosega Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000024,
+    "grade": "Grade 3",
+    "student_count": 2
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Olosega Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000024,
+    "grade": "Grade 4",
+    "student_count": 7
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Olosega Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000024,
+    "grade": "Grade 5",
+    "student_count": 2
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Olosega Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000024,
+    "grade": "Grade 6",
+    "student_count": 8
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Olosega Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000024,
+    "grade": "Grade 7",
+    "student_count": 4
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Olosega Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000024,
+    "grade": "Grade 8",
+    "student_count": 3
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Olosega Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000024,
+    "grade": "Kindergarten",
+    "student_count": 2
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Peter Coleman Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000025,
+    "grade": "Grade 1",
+    "student_count": 66
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Peter Coleman Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000025,
+    "grade": "Grade 2",
+    "student_count": 55
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Peter Coleman Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000025,
+    "grade": "Grade 3",
+    "student_count": 62
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Peter Coleman Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000025,
+    "grade": "Grade 4",
+    "student_count": 60
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Peter Coleman Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000025,
+    "grade": "Grade 5",
+    "student_count": 64
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Peter Coleman Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000025,
+    "grade": "Grade 6",
+    "student_count": 63
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Peter Coleman Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000025,
+    "grade": "Grade 7",
+    "student_count": 67
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Peter Coleman Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000025,
+    "grade": "Grade 8",
+    "student_count": 70
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Peter Coleman Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000025,
+    "grade": "Kindergarten",
+    "student_count": 55
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Pavaiai Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000026,
+    "grade": "Grade 1",
+    "student_count": 125
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Pavaiai Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000026,
+    "grade": "Grade 2",
+    "student_count": 109
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Pavaiai Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000026,
+    "grade": "Grade 3",
+    "student_count": 131
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Pavaiai Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000026,
+    "grade": "Grade 4",
+    "student_count": 114
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Pavaiai Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000026,
+    "grade": "Grade 5",
+    "student_count": 115
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Pavaiai Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000026,
+    "grade": "Grade 6",
+    "student_count": 121
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Pavaiai Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000026,
+    "grade": "Grade 7",
+    "student_count": 125
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Pavaiai Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000026,
+    "grade": "Grade 8",
+    "student_count": 151
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Pavaiai Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000026,
+    "grade": "Kindergarten",
+    "student_count": 109
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Samoana High School",
+    "leaid": 6000030,
+    "ncessch": 600003000028,
+    "grade": "Grade 10",
+    "student_count": 235
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Samoana High School",
+    "leaid": 6000030,
+    "ncessch": 600003000028,
+    "grade": "Grade 11",
+    "student_count": 219
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Samoana High School",
+    "leaid": 6000030,
+    "ncessch": 600003000028,
+    "grade": "Grade 12",
+    "student_count": 239
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Samoana High School",
+    "leaid": 6000030,
+    "ncessch": 600003000028,
+    "grade": "Grade 9",
+    "student_count": 252
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Siliaga Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000029,
+    "grade": "Grade 1",
+    "student_count": 20
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Siliaga Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000029,
+    "grade": "Grade 2",
+    "student_count": 15
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Siliaga Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000029,
+    "grade": "Grade 3",
+    "student_count": 19
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Siliaga Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000029,
+    "grade": "Grade 4",
+    "student_count": 29
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Siliaga Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000029,
+    "grade": "Grade 5",
+    "student_count": 20
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Siliaga Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000029,
+    "grade": "Grade 6",
+    "student_count": 18
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Siliaga Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000029,
+    "grade": "Grade 7",
+    "student_count": 15
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Siliaga Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000029,
+    "grade": "Grade 8",
+    "student_count": 20
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Siliaga Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000029,
+    "grade": "Kindergarten",
+    "student_count": 25
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Tafuna High School",
+    "leaid": 6000030,
+    "ncessch": 600003000031,
+    "grade": "Grade 10",
+    "student_count": 307
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Tafuna High School",
+    "leaid": 6000030,
+    "ncessch": 600003000031,
+    "grade": "Grade 11",
+    "student_count": 288
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Tafuna High School",
+    "leaid": 6000030,
+    "ncessch": 600003000031,
+    "grade": "Grade 12",
+    "student_count": 271
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Tafuna High School",
+    "leaid": 6000030,
+    "ncessch": 600003000031,
+    "grade": "Grade 9",
+    "student_count": 329
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Nu'uuli Vocational Technical High School",
+    "leaid": 6000030,
+    "ncessch": 600003000032,
+    "grade": "Grade 10",
+    "student_count": 92
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Nu'uuli Vocational Technical High School",
+    "leaid": 6000030,
+    "ncessch": 600003000032,
+    "grade": "Grade 11",
+    "student_count": 80
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Nu'uuli Vocational Technical High School",
+    "leaid": 6000030,
+    "ncessch": 600003000032,
+    "grade": "Grade 12",
+    "student_count": 81
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Nu'uuli Vocational Technical High School",
+    "leaid": 6000030,
+    "ncessch": 600003000032,
+    "grade": "Grade 9",
+    "student_count": 88
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Masefau Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000033,
+    "grade": "Grade 1",
+    "student_count": 9
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Masefau Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000033,
+    "grade": "Grade 2",
+    "student_count": 11
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Masefau Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000033,
+    "grade": "Grade 3",
+    "student_count": 13
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Masefau Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000033,
+    "grade": "Grade 4",
+    "student_count": 8
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Masefau Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000033,
+    "grade": "Grade 5",
+    "student_count": 11
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Masefau Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000033,
+    "grade": "Grade 6",
+    "student_count": 7
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Masefau Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000033,
+    "grade": "Grade 7",
+    "student_count": 4
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Masefau Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000033,
+    "grade": "Grade 8",
+    "student_count": 9
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Masefau Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000033,
+    "grade": "Kindergarten",
+    "student_count": 4
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Fagali'i Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000049,
+    "grade": "Grade 1",
+    "student_count": 11
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Fagali'i Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000049,
+    "grade": "Grade 2",
+    "student_count": 7
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Fagali'i Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000049,
+    "grade": "Grade 3",
+    "student_count": 6
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Fagali'i Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000049,
+    "grade": "Grade 4",
+    "student_count": 13
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Fagali'i Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000049,
+    "grade": "Grade 5",
+    "student_count": 14
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Fagali'i Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000049,
+    "grade": "Grade 6",
+    "student_count": 7
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Fagali'i Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000049,
+    "grade": "Grade 7",
+    "student_count": 5
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Fagali'i Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000049,
+    "grade": "Grade 8",
+    "student_count": 13
+  },
+  {
+    "school_year": "2018-2019",
+    "statename": "AMERICAN SAMOA",
+    "st": "AS",
+    "sch_name": "Fagali'i Elementary School",
+    "leaid": 6000030,
+    "ncessch": 600003000049,
+    "grade": "Kindergarten",
+    "student_count": 9
+  }
+]
